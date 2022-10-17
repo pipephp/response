@@ -75,6 +75,7 @@ class Response
 
     public function send():self
     {
+        http_response_code($this->status);
         return $this->sendHeaders()->sendContent();
     }
 }
