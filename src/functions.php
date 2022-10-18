@@ -1,6 +1,6 @@
 <?php
 
-namespace Pipe;
+use Pipe\Response;
 
 function response(): Response
 {

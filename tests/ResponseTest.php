@@ -2,8 +2,6 @@
 
 use Pipe\Response;
 
-use function Pipe\response;
-
 it("can get class from function", function () {
     expect(response())->toBeInstanceOf(Response::class);
 });
