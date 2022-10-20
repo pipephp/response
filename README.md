@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/pipe/route"><img src="https://poser.pugx.org/pipe/response/v/stable?style=for-the-badge" alt="Latest Stable Version"/></a>
-    <a href="https://packagist.org/packages/pipe/route"><img src="https://poser.pugx.org/pipe/response/downloads?style=for-the-badge" alt="Total Downloads"/></a>
-    <a href="https://packagist.org/packages/pipe/route"><img src="https://poser.pugx.org/pipe/response/license?style=for-the-badge" alt="License"/></a>
+    <a href="https://packagist.org/packages/pipe/response"><img src="https://poser.pugx.org/pipe/response/v/stable?style=for-the-badge" alt="Latest Stable Version"/></a>
+    <a href="https://packagist.org/packages/pipe/response"><img src="https://poser.pugx.org/pipe/response/downloads?style=for-the-badge" alt="Total Downloads"/></a>
+    <a href="https://packagist.org/packages/pipe/response"><img src="https://poser.pugx.org/pipe/response/license?style=for-the-badge" alt="License"/></a>
 </p>
 
 ---
